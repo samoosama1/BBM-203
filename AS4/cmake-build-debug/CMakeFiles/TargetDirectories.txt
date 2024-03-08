@@ -1,0 +1,3 @@
+D:/TERM 3/BBM 203/AS4/cmake-build-debug/CMakeFiles/AS4.dir
+D:/TERM 3/BBM 203/AS4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TERM 3/BBM 203/AS4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

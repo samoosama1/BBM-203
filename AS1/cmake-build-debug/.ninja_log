@@ -1,0 +1,21 @@
+# ninja log v5
+3	524	7202812393455515	CMakeFiles/AS1.dir/src/Convolution.cpp.obj	2ea6da8279d6c443
+2	410	7204040677615502	CMakeFiles/AS1.dir/src/EncodeMessage.cpp.obj	63b5a5c91b54bd53
+2	366	7202331282560926	CMakeFiles/AS1.dir/src/EdgeDetector.cpp.obj	e14b505a22a004d2
+48	606	7202320608981576	CMakeFiles/AS1.dir/src/ImageSharpening.cpp.obj	1a38fdb72076e2d9
+3	467	7207294917041348	CMakeFiles/AS1.dir/src/ImageProcessor.cpp.obj	931d0b157a5735bc
+3	466	7203933433897224	CMakeFiles/AS1.dir/src/DecodeMessage.cpp.obj	e95845308c9b6f0
+22	700	7202320609958676	CMakeFiles/AS1.dir/src/ImageMatrix.cpp.obj	aecb926c2743a39b
+2	381	7207297458973507	CMakeFiles/AS1.dir/src/main.cpp.obj	39d53b934fee1699
+32	882	7202320611764800	CMakeFiles/AS1.dir/src/ImageLoader.cpp.obj	a48aeb7d3fe02d5e
+381	703	7207297462169620	AS1.exe	9da54b42ebfc3fea
+11	475	7207294917121348	CMakeFiles/AS1.dir/src/main2.cpp.obj	d53f28bbdad597bd
+16	645	7207294918841331	CMakeFiles/AS1.dir/src/TestImageProcessorDecodeHiddenMessage.cpp.obj	2bddf73346d9319d
+2	437	7207978023029749	CMakeFiles/AS1.dir/src/main2.cpp.obj	d53f28bbdad597bd
+437	709	7207978025720879	AS1.exe	8c02e167a2a1892a
+3	323	7207978613155378	CMakeFiles/AS1.dir/src/main2.cpp.obj	d53f28bbdad597bd
+323	437	7207978614273546	AS1.exe	8c02e167a2a1892a
+3	428	7207981203410174	CMakeFiles/AS1.dir/src/DecodeMessage.cpp.obj	e95845308c9b6f0
+428	548	7207981204596999	AS1.exe	8c02e167a2a1892a
+2	383	7207982439793609	CMakeFiles/AS1.dir/src/DecodeMessage.cpp.obj	e95845308c9b6f0
+383	497	7207982440908010	AS1.exe	8c02e167a2a1892a
